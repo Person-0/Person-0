@@ -13,4 +13,4 @@
 *Things I'm working on lately are :*
 
  - An FPS game using Three.JS
- - This website ;')
+ - https://bluzed.github.io/
