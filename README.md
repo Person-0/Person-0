@@ -12,5 +12,5 @@
 
 *Things I'm working on lately are :*
 
- - An FPS game using Three.JS
+ - A super secret app
  - https://bluzed.github.io/
