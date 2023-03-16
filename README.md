@@ -1,7 +1,7 @@
 # 👋 Glad to see you here!
 ![](https://komarev.com/ghpvc/?username=BluZed)
 
-*I'm **BluZed**, currently a **15yo** student in **Class 10th** who likes to code.*     
+*I'm **BluZed**, currently a student in high school who likes to code.*     
 
 *Computer languages i frequently use are :*
  - Javascript - `Vanilla, NodeJS`
