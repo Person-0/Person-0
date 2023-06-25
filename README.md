@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=BluZed)
 
 *I'm **BluZed**, currently a high school student who likes to code.*     
-[Discord](https://discord.com/users/747484654524694608)
+[My Discord (Username is `bluzed`)](https://discord.com/users/747484654524694608)
 
 *Computer languages i frequently use are :*
  - Javascript - `Vanilla, NodeJS`
