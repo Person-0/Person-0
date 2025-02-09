@@ -1,10 +1,9 @@
 # 👋 Glad to see you here!
-![](https://komarev.com/ghpvc/?username=BluZed)
 
-*I'm **BluZed**, currently a high school student who likes to code.*     
+*I'm **BluZed**, currently a  final year high school student.*     
 Discord: `bluzed`
 
 *Computer languages i frequently use are :*
  - Javascript - `Vanilla, NodeJS`
+   (html/css) 
  - Python 
- - HTML & CSS
