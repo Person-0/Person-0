@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a final‑year high school student and passionate software developer.
+fresher cse undergrad, passionate software developer.
 
 ---
 
