@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm **BluZed**, a final‑year high school student and passionate software developer.
-
-📫 Reach me on Discord: `bluzed`  
+I'm a final‑year high school student and passionate software developer.
 
 ---
 
