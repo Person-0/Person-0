@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a fresher cse undergrad, passionate software developer.
+I'm a cse undergrad fresher and a passionate software developer.
 
 ---
 
