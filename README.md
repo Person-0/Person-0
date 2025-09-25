@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a cse undergrad fresher and a passionate software developer.
+I'm a CSE Undergrad fresher and a passionate software developer.
 
 ---
 
@@ -18,15 +18,17 @@ I'm a cse undergrad fresher and a passionate software developer.
 ---
 
 ## 🎯 What I'm Learning
-Exploring backend systems, RESTful APIs, and desktop tooling to build polished applications from front end to deployment.
+- Rust, C/C++
+- Game Dev
+- Backend systems, RESTful APIs, Desktop tooling to build polished applications from front end to deployment.
 
 ---
 
 ## 🔧 Tools & Technologies
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
-- **Frameworks**: Node.js, Electron, discord.js, discord.py  
+- **Frameworks**: Node.js, Electron, ExpressJS, discord.js, discord.py
 - **Web**: HTML5, CSS3  
-- **Tools**: Git, GitHub, CLI workflows
+- **Tools**: Git, GitHub, CLI workflows, WebSockets
 
 ---
 
@@ -37,4 +39,4 @@ Exploring backend systems, RESTful APIs, and desktop tooling to build polished a
 
 ---
 
-Always up for collabs, open‑source contributions, or building something fun—let’s connect!
+Always up for collabs, open‑source contributions, or building something fun.
