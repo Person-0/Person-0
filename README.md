@@ -32,11 +32,4 @@ I'm a CSE Undergrad fresher and a passionate software developer.
 
 ---
 
-## 🚀 On The Horizon
-- Deepening knowledge of backend technologies (Express, MySQL)  
-- Building full-stack apps with Electron front-end & server back-end  
-- Maintaining and contributing more to open-source projects
-
----
-
 Always up for collabs, open‑source contributions, or building something fun.
