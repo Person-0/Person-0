@@ -27,7 +27,7 @@ KiCad 9.0
 Fusion 360
 ```
 
-## **interests**
+## **interests / exploring**
 
 ```
 robotics, PCB design, avionics, embedded systems, backend development
