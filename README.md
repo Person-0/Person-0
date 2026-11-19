@@ -1,16 +1,35 @@
-## Hi there 👋
+```bash
+?
+```
 
-<!--
-**Person-0/Person-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **i do**
 
-Here are some ideas to get you started:
+```
+.html / .css / .js
+```
+```
+.ts
+```
+```
+.py
+```
+```
+.c / .cpp
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **i use**
+```
+[RP2040 / 2350] / [ESP32] / [RPi]
+```
+```
+KiCad 9.0
+```
+```
+Fusion 360
+```
+
+## **interests**
+
+```
+robotics, PCB design, avionics, embedded systems, backend development
+```
