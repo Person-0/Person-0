@@ -3,9 +3,8 @@
 ```
 
 ## **i do**
-
 ```
-.html / .css / .js
+.c / .cpp
 ```
 ```
 .ts
@@ -14,7 +13,7 @@
 .py
 ```
 ```
-.c / .cpp
+.html / .css / .js
 ```
 
 ## **i use**
